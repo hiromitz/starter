@@ -1,8 +1,7 @@
 {
-  "name": "soundonlive",
-  "version": "2.0.0",
-  "description": "May the sound be with you",
-  "main": "index.js",
+  "name": "starter-nextjs",
+  "version": "1.0.0",
+  "main": "server/index.js",
   "author": "SOUND ON LIVE, Inc.",
   "private": true,
   "scripts": {
