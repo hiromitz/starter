@@ -12,7 +12,7 @@
 Download the starter:
 
 ```bash
-curl https://codeload.github.com/hiromitz/starter/tar.gz/master | tar -xz --strip=1 starter/nextjs
+curl https://codeload.github.com/hiromitz/starter/tar.gz/master | tar -xz --strip=1 starter-master/nextjs
 cd nextjs
 ```
 
