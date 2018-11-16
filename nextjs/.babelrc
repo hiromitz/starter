@@ -1,0 +1,15 @@
+{
+  "presets": [ "@babel/preset-flow", "next/babel" ],
+  "plugins": [
+    "@babel/plugin-transform-flow-strip-types",
+    [ "module-resolver", {
+      "root": [
+        "."
+      ],
+      "alias": {
+        "@components": "./src/components",
+      },
+      "cwd": "babelrc"
+    }]
+  ]
+}
