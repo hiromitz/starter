@@ -14,7 +14,7 @@
     "test": "ava --verbose src/**/*.test.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.16.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",

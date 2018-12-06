@@ -2,7 +2,6 @@
   "presets": [ "@babel/preset-env", "@babel/preset-flow" ],
   "plugins": [
     "@babel/plugin-proposal-object-rest-spread",
-    "@babel/plugin-transform-async-to-generator",
-    "import-graphql"
+    "@babel/plugin-transform-async-to-generator"
   ]
 }
